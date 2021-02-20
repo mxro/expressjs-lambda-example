@@ -1,0 +1,15 @@
+{
+  "projectName": "expressjs-lambda-getting-started",
+  "packages": [
+    {
+      "packageName": "lambda-express",
+      "templateReference": {
+        "templateName": "lambda-express"
+      }
+    }
+  ],
+  "rootTemplateReference": {
+    "templateName": "yarn-pnp-monorepo"
+  },
+  "createdAt": "2021-02-20T20:24:03.604Z"
+}

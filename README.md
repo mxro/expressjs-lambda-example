@@ -12,7 +12,7 @@ This sample project shows how an Express.js server can be deployed to AWS lambda
 
 This project is deployed to [https://expressjs-lambda.examples.goldstack.party/](https://expressjs-lambda.examples.goldstack.party/).
 
-For more information also see the blog post [Express.js on Lambda Getting Started](https://maxrohde.com/2021/02/21/express-js-on-lambda-getting-started/)
+For more information also see the blog post [Express.js on Lambda Getting Started](https://maxrohde.com/2021/02/21/express-js-on-lambda-getting-started/).
 
 ## Getting Started
 
